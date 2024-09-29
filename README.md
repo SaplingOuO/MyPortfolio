@@ -1,24 +1,24 @@
-# myportfolio
+# 關於animerecordvue這個網站
 
-## Project setup
-```
-npm install
-```
+### 介紹
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- 這網站做為作品集而架設，不定時更新。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 使用的程式語言與框架
 
-### Lints and fixes files
-```
-npm run lint
-```
+- 程式語言
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Python
+  - THREE.js
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 框架
+  - Bootstrap 5
+  - Vue 3
+  - Express
+
+- 資料庫
+  - SQLite3
+
+### [點此進入網站](https://saplingouo.github.io/MyPortfolio/)
